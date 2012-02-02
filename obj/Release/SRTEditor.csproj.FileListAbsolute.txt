@@ -1,0 +1,24 @@
+C:\Users\Ross\AppData\Local\Temporary Projects\SRTEditor\bin\Release\SRTEditor.exe
+C:\Users\Ross\AppData\Local\Temporary Projects\SRTEditor\bin\Release\SRTEditor.pdb
+C:\Users\Ross\AppData\Local\Temporary Projects\SRTEditor\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Ross\AppData\Local\Temporary Projects\SRTEditor\obj\Release\SRTEditor.Form1.resources
+C:\Users\Ross\AppData\Local\Temporary Projects\SRTEditor\obj\Release\SRTEditor.Properties.Resources.resources
+C:\Users\Ross\AppData\Local\Temporary Projects\SRTEditor\obj\Release\SRTEditor.csproj.GenerateResource.Cache
+C:\Users\Ross\AppData\Local\Temporary Projects\SRTEditor\obj\Release\SRTEditor.exe
+C:\Users\Ross\AppData\Local\Temporary Projects\SRTEditor\obj\Release\SRTEditor.pdb
+C:\Users\Ross\Documents\Visual Studio 2008\Projects\SRTEditor\SRTEditor\obj\Release\SRTEditor.exe
+C:\Users\Ross\Documents\Visual Studio 2008\Projects\SRTEditor\SRTEditor\obj\Release\SRTEditor.pdb
+C:\Users\Ross\Documents\Visual Studio 2008\Projects\SRTEditor\SRTEditor\bin\Release\SRTEditor.exe
+C:\Users\Ross\Documents\Visual Studio 2008\Projects\SRTEditor\SRTEditor\bin\Release\SRTEditor.pdb
+C:\Users\Ross\Documents\Visual Studio 2008\Projects\SRTEditor\SRTEditor\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Ross\Documents\Visual Studio 2008\Projects\SRTEditor\SRTEditor\obj\Release\SRTEditor.Form1.resources
+C:\Users\Ross\Documents\Visual Studio 2008\Projects\SRTEditor\SRTEditor\obj\Release\SRTEditor.Properties.Resources.resources
+C:\Users\Ross\Documents\Visual Studio 2008\Projects\SRTEditor\SRTEditor\obj\Release\SRTEditor.csproj.GenerateResource.Cache
+C:\Users\Ross\Dropbox\Documents\Programming\Visual Studio 2008\Projects\SRTEditor\SRTEditor\bin\Release\SRTEditor.exe
+C:\Users\Ross\Dropbox\Documents\Programming\Visual Studio 2008\Projects\SRTEditor\SRTEditor\bin\Release\SRTEditor.pdb
+C:\Users\Ross\Dropbox\Documents\Programming\Visual Studio 2008\Projects\SRTEditor\SRTEditor\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Ross\Dropbox\Documents\Programming\Visual Studio 2008\Projects\SRTEditor\SRTEditor\obj\Release\SRTEditor.Form1.resources
+C:\Users\Ross\Dropbox\Documents\Programming\Visual Studio 2008\Projects\SRTEditor\SRTEditor\obj\Release\SRTEditor.Properties.Resources.resources
+C:\Users\Ross\Dropbox\Documents\Programming\Visual Studio 2008\Projects\SRTEditor\SRTEditor\obj\Release\SRTEditor.csproj.GenerateResource.Cache
+C:\Users\Ross\Dropbox\Documents\Programming\Visual Studio 2008\Projects\SRTEditor\SRTEditor\obj\Release\SRTEditor.exe
+C:\Users\Ross\Dropbox\Documents\Programming\Visual Studio 2008\Projects\SRTEditor\SRTEditor\obj\Release\SRTEditor.pdb
